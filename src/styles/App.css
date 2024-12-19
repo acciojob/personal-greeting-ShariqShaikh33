@@ -1,1 +1,18 @@
+#mainwrapper{
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding-left: 10px;
+}
 
+#nameinput{
+    display: block;
+    width: 30%;
+}
+
+#outputdiv{
+    display: inline;
+    width: 50%;
+    height: 2em;
+}
